@@ -1,2 +1,2 @@
-# CV1
-CV
+# CV
+Basic training using HTML to write CV
